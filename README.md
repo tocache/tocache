@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hola, aquí encontrarán diversos repositorios de desarrollos que hago en el ámbito de la electrónica
+
+Here you'll find all the developments I'm working at.
+
+- 🌱 I’m currently learning about the Intel 8086 microprocessor architecture ans its Assembly language
+
 <!--
 **tocache/tocache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
