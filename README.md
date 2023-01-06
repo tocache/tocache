@@ -2,7 +2,8 @@
 
 Here you'll find all the developments I'm working at.
 
-- 🌱 I’m currently learning about the Intel 8085 microprocessor architecture ans its Assembly language
+- 🔭 I’m currently working on embedded electronics using the Microchip PIC18F45K50 microcontroller
+- 🌱 I’m currently learning about the Intel 8085 microprocessor architecture and its Assembly language
 
 Hola, aquí encontrarán diversos repositorios de desarrollos que hago en el ámbito de la electrónica
 
