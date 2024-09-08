@@ -3,7 +3,8 @@
 Here you'll find all the developments I'm working at.
 
 - 🔭 I’m currently working on embedded electronics using the Microchip PIC18F57Q43 microcontroller
-- 🌱 I’m currently learning about the Intel 8085 microprocessor architecture and its Assembly language
+- ~~🌱 I’m currently learning about the Intel 8085 microprocessor architecture and its Assembly language~~
+- 🤔 Currently suffering in putting a NIOS-V processor into a Cyclone-10LP FPGA
 
 Hola, aquí encontrarán diversos repositorios de desarrollos que hago en el ámbito de la electrónica
 
